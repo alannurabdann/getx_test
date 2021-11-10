@@ -13,6 +13,6 @@ void main() {
 
   test('Invalid Email Test', () {
     String result = controller.emailValidator('alan');
-    expect(result, 'Enter Valid Email!');
+    expect(result, 'Enter valid Email!');
   });
 }
