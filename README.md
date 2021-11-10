@@ -2,6 +2,14 @@
 
 implementation GetX unit test.
 
+## Task Success
+
+![alt text](https://github.com/alannurabdann/getx_test/blob/master/screenshoot/test%20success.jpg)
+
+## Task Failed
+
+![alt text](https://github.com/alannurabdann/getx_test/blob/master/screenshoot/test%20failed.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
