@@ -1,6 +1,6 @@
-# playground_test
+# Flutter GetX Unit Test
 
-A new Flutter application.
+implementation GetX unit test.
 
 ## Getting Started
 
